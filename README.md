@@ -6,6 +6,7 @@ and implementations.
 
 ## 📂 Repository Structure
 
+```bash
 deep-learning-notes/
 │── notebooks/            # Jupyter notebooks
 │   ├── 01_intro.ipynb
@@ -20,6 +21,7 @@ deep-learning-notes/
 │── README.md             # Repository overview
 │── requirements.txt      # Dependencies for running notebooks
 │── .gitignore            # Ignore unnecessary files
+```
 
 ## 📌 Topics Covered
 
