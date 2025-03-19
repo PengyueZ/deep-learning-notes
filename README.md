@@ -1,10 +1,10 @@
-Deep Learning Study Notes & Jupyter Notebooks
+# Deep Learning Study Notes & Jupyter Notebooks
 
 Welcome to my deep learning study repository! This repo contains my notes 
 and Jupyter notebooks covering various deep learning topics, algorithms, 
 and implementations.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 deep-learning-notes/
 │── notebooks/            # Jupyter notebooks
@@ -21,7 +21,7 @@ deep-learning-notes/
 │── requirements.txt      # Dependencies for running notebooks
 │── .gitignore            # Ignore unnecessary files
 
-📌 Topics Covered
+## 📌 Topics Covered
 
 Introduction to Deep Learning
 
@@ -39,31 +39,26 @@ Reinforcement Learning & Deep Q-Learning
 
 Applications & Case Studies
 
-🔧 Setup Instructions
+## 🔧 Setup Instructions
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 
+```bash
 git clone https://github.com/YOUR_USERNAME/deep-learning-notes.git
 cd deep-learning-notes
+```
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 
 If you want to run the notebooks, install the required Python packages:
 
+```bash
 pip install -r requirements.txt
+```
 
-3️⃣ Open Jupyter Notebook
+### 3️⃣ Open Jupyter Notebook
 
+```bash
 jupyter notebook
+```
 
-📜 License
-
-This project is for educational purposes. Feel free to use and modify the 
-content.
-
-🤝 Contributions
-
-If you’d like to contribute, feel free to fork this repo and submit a pull 
-request!
-
-⭐ If you find this repository helpful, consider giving it a star! ⭐
